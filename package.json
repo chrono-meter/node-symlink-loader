@@ -1,0 +1,18 @@
+{
+  "name": "@chrono-meter/node-symlink-loader",
+  "version": "0.1.0",
+  "description": "",
+  "author": "chrono-meter@gmx.net",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    "./install": "./install.mjs"
+  },
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/chrono-meter/node-symlink-loader.git"
+	},
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
